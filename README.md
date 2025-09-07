@@ -28,15 +28,6 @@ F1 Loss + Backpropagation
 Improved Medical Extraction
 ```
 
-## Key Features
-
-- ✅ **End-to-End Trainable**: Sentence transformer learns through classification feedback
-- ✅ **Medical Focus**: Attention mechanism trained on medical terminology
-- ✅ **Custom Loss Functions**: F1 and RMSE optimized for medical classification
-- ✅ **Backpropagation**: Gradients flow from classification to sentence transformer
-- ✅ **GCP Ready**: Configured for Google Cloud Vertex AI training
-- ✅ **Comprehensive Testing**: Full test suite for training and inference
-
 ## Dataset
 
 Uses the [Medical Abstracts TC Corpus](https://github.com/sebischair/Medical-Abstracts-TC-Corpus) with 5 classes:
